@@ -197,7 +197,7 @@
 {"name":"备解15","url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"解析","url":"http://jx5.178du.com/p1/?url="} ], 
 // 电视直播的接口链接
-"dianshizhibo":"https://image.api.losfer.cn/down.php/b8441b70d90878c5e2f44805e55a9e95.txt&159357",
+"dianshizhibo":"https://image.api.losfer.cn/down.php/994beb4e9cfb5283a3318cf5044ec758.txt&a0709a",
 
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 
