@@ -73,11 +73,49 @@
 ],
 
 "zhujiexi":[
-{"name":"解析1","url":"https://rx.bt5v.com/json/jsonindex.php/?url="}
-], 
-
-
-"beiyongjiexi": [
+{"name":"刘兵","url":"http://newjiexi.gotka.top/keyu3.php?url="},
+{"name":"云you","url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
+{"name":"ckflv","url":"http://api.ckflv.cn/?url="},
+{"name":"可与","url":"http://newjiexi.gotka.top/keyu3.php?url="},
+{"name":"融兴","url":"https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url="},
+{"name":"猫咪","url":"http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url="},
+{"name":"free","url":"https://h5.freejson.xyz/player/?url="},
+{"name":"OKjx嗅探","url":"https://okjx.cc/?url="},
+{"name":"hxys","url":"https://hxys.tv/bfq/?url="}, 
+{"name":"fuqi","url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="}, 
+{"name":"fositv","url":"https://play.fositv.com/?url="}, 
+{"name":"fuqi2","url":"https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="}, 
+{"name":"战狼","url":"https://jx.zhanlangbu.com/?url="}, 
+{"name":"酷云","url":"http://101.34.67.237:5705/parse/api/酷云.js?url="},
+{"name":"chaoli","url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="}, 
+{"name":"fuqi3","url":"https://play.fuqizhishi.com/jx/API.php?appkey=iiiixiaobai&url="},
+{"name":"江湖","url":"http://101.34.67.237:5705/parse/api/江湖.js?url="}, 
+{"name":"鸿途","url":"http://101.34.67.237:5705/parse/api/鸿途.js?url="}, 
+{"name":"飞跃","url":"http://101.34.67.237:5705/parse/api/飞跃.js?url="}, 
+{"name":"无名","url":"http://101.34.67.237:5705/parse/api/无名.js?url="}, 
+{"name":"cyu","url":"https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url="}, 
+{"name":"bynote","url":"https://jx.bynote.top/API.php?url="}, 
+{"name":"vip","url":"http://101.34.67.237:5705/parse/api/vip.js?url="}, 
+{"name":"dyg","url":"http://101.34.67.237:5705/parse/api/dyg.js?url="}, 
+{"name":"江湖2","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}], 
+ "beiyongjiexi": [
+{"name":"解析1","url":"https://nbjx.vip/?url="}, 
+{"name":"解析2","url":"https://jx.blbo.cc:4433/?url="}, 
+{"name":"解析3","url":"https://www.nxflv.com/?url="}, 
+{"name":"解析6","url":"https://za.kuanjv.com/?url="},
+{"name":"解析","url":"http://m2090.com/?url="}, 
+{"name":"解析","url":"https://jx.parwix.com:4433/player/?url="}, 
+{"name":"解析","url":"https://jx.xuanqi.pro/?url="},
+{"name":"解析","url":"https://www.nxflv.com/?url="},
+{"name":"解析","url":"http://47.100.138.210:92/?url="},
+{"name":"解析","url":"http://api.diliktv.xyz/vip/jx.php?url="}, 
+{"name":"解析","url":"https://vipjx.cc/?url="},
+{"name":"解析","url":"https://jx.aidouer.net/?url="}, 
+{"name":"解析","url":"https://svip.bljiex.cc/?v="}, 
+{"name":"解析","url":"https://bd.jx.cn/vip/?url="}, 
+{"name":"解析","url":"https://z1.m1907.cn/?jx="}, 
+{"name":"解析","url":"https://vip.2ktvb.com/player/?url="}, 
+{"name":"解析","url":"https://nbjx.vip/?url="}, 
 {"name":"备解1","url":"https://jx.xmflv.com/?url="},
 {"name":"备解2","url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"备解3","url":"https://www.pangujiexi.com/pangu/?url="},
@@ -93,10 +131,9 @@
 {"name":"备解13","url":"http://api.wpsseo.cn/?v="},
 {"name":"备解14","url":"https://go.yh0523.cn/y.cy?url="},
 {"name":"备解15","url":"https://www.ckplayer.vip/jiexi/?url="},
-{"name":"备解16","url":"https://svip.bljiex.cc/?v="}
-],
-
-"dianshizhibo":"https://image.api.losfer.cn/down.php/b8441b70d90878c5e2f44805e55a9e95.txt&159357",
+{"name":"解析","url":"http://jx5.178du.com/p1/?url="} ], 
+// 电视直播的接口链接
+"dianshizhibo":"https://image.api.losfer.cn/down.php/994beb4e9cfb5283a3318cf5044ec758.txt&a0709a",
 
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 
