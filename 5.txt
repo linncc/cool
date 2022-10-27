@@ -1,15 +1,15 @@
 {
     "urls": [
            {
-            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.bmp",
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": " 🐞请点击选择下方线路"
         },
           {
-            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.bmp",
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": "应用多多家庭版"
          },
           {
-            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.bmp",
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": "待添加"
         }
       ]
