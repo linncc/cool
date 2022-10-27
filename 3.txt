@@ -20,7 +20,7 @@
             "name": "💎唐三线路"
         },
          {
-            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
+            "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/33.txt",
             "name": "💎佰欣园线路"
         },
         {
@@ -28,7 +28,7 @@
             "name": "💎FreeTV线路"
         },
         {
-           "url":"https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+           "url":"https://raw.iqiq.io/gh/XuQqu/PinkBird/main/normal.json",
            "name":"💎PinkBird线路"
         },
         {
