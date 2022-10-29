@@ -16,7 +16,7 @@
             "key": "空格",
             "name": "-------------------------",
             "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-            "date": ""
+            "date": "start"
         },
         {
             "key": "🏡应用多多家庭版",
@@ -106,13 +106,13 @@
             "key": "空格2",
             "name": "-------------------------",
             "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-            "date": "  "
+            "date": "end"
         },
         {
             "key": "新增",
             "name": "加入QQ频道【应用多多】反馈问题",
             "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-            "date": "  "
+            "date": ""
         }
     ]
 }
