@@ -2,13 +2,19 @@
     "api": [
         {
             "key": "多多TV Plus线路〔点我切换〕",
-            "name": "                          请点击下方线路进行切换",
+            "name": "请点击下方线路进行切换",
             "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "date": ""
         },
         {
             "key": "公告",
-            "name": "--------------------------公众号【应用多多】持续更新维护--------------------------",
+            "name": "公众号【应用多多】持续更新维护",
+            "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "date": ""
+        },
+        {
+            "key": "空格",
+            "name": "--------------------------",
             "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "date": ""
         },
@@ -104,14 +110,14 @@
         },
         {
             "key": "新增",
-            "name": "新增接口请前往",
+            "name": "新增接口请前往QQ频道",
             "ext": "/",
             "date": "  "
         },
         {
             "key": "新增2",
-            "name": "QQ频道【应用多多】反馈添加",
-            "ext": "/",
+            "name": "并搜索【应用多多】频道反馈",
+            "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "date": "  "
         }
     ]
