@@ -49,36 +49,6 @@
             "date": "经典Yoursmile线路"
         },
         {
-            "key": "️🍉甜蜜线路",
-            "name": "🍉甜蜜线路",
-            "ext": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
-            "date": "大聪明收集添加"
-        },
-        {
-            "key": "🍅刚刚线路",
-            "name": "🍅刚刚线路",
-            "ext": "http://刚刚.live/猫",
-            "date": "大聪明收集添加"
-        },
-        {
-            "key": "🥝老刘备线路",
-            "name": "🥝老刘备线路",
-            "ext": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "date": "默默无闻的TVBox大佬"
-        },
-        {
-            "key": "🍇Ray0线路",
-            "name": "🍇Ray0线路",
-            "ext": "http://dxawi.github.io/0/0.json",
-            "date": "大聪明收集添加"
-        },
-        {
-            "key": "🍈Ray1线路",
-            "name": "🍈Ray1线路",
-            "ext": "http://dxawi.github.io/0/1.json",
-            "date": "大聪明收集添加"
-        },
-        {
             "key": "🍋神器线路",
             "name": "🍋神器线路",
             "ext": "https://神器每日推送.tk/pz.json",
@@ -95,6 +65,36 @@
             "name": "🍎小苹果线路",
             "ext": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "date": "小苹果影视线路"
+        },
+        {
+            "key": "️🍉甜蜜线路",
+            "name": "🍉甜蜜线路",
+            "ext": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+            "date": "大聪明收集添加"
+        },
+        {
+            "key": "🍅刚刚线路",
+            "name": "🍅刚刚线路",
+            "ext": "http://刚刚.live/猫",
+            "date": "大聪明收集添加"
+        },
+        {
+            "key": "🥝老刘备线路",
+            "name": "🥝老刘备线路",
+            "ext": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "date": "大聪明收集添加"
+        },
+        {
+            "key": "🍇Ray0线路",
+            "name": "🍇Ray0线路",
+            "ext": "http://dxawi.github.io/0/0.json",
+            "date": "大聪明收集添加"
+        },
+        {
+            "key": "🍈Ray1线路",
+            "name": "🍈Ray1线路",
+            "ext": "http://dxawi.github.io/0/1.json",
+            "date": "大聪明收集添加"
         },
         {
             "key": "🍐元兴线路",
