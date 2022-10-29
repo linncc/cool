@@ -1,7 +1,7 @@
 {
     "api": [
         {
-            "key": "多多TV Plus线路〔点我切换〕",
+            "key": "多多TV Plus多线路版〔点这里选择线路〕",
             "name": "请点击下方线路进行切换",
             "ext": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "date": ""
