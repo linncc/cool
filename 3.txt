@@ -28,8 +28,8 @@
             "name": "💎FreeTV线路"
         },
         {
-           "url":"https://raw.iqiq.io/gh/XuQqu/PinkBird/main/normal.json",
-           "name":"💎PinkBird线路"
+           "url":"http://47.242.90.42:8888/down/BJZPa8THuiE9",
+           "name":"💎星辰线路"
         },
         {
             "url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
