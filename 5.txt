@@ -11,7 +11,47 @@
           {
             "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": "待添加"
-        }
+        },
+         {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "待添加"
+        },  
+          {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/m.json",
+            "name": "待添加"
+        }  
       ]
    
 }
