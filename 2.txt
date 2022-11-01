@@ -52,6 +52,10 @@
 "name":"🐹源享家线路"
 },
 {
+   "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+   "name":"🐹agit/abc线路"
+ },
+{
 "url":"https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg",
 "name":"🐹agit/66666线路"
 },
