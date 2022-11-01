@@ -16,10 +16,6 @@
           "name":"🚀俊佬线路"
         },
         {
-         "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
-         "name":"🚀蜂蜜线路"
-        },
-        {
           "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
           "name":"🚀南风线路"
         },
