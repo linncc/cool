@@ -16,6 +16,10 @@
 "name":"🐹神器线路"
 },
 {
+"url":"http://xn--sss604efuw.ml/tvb/x",
+"name":"🐹饭太硬线路"
+},
+{
 "url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
 "name":"🐹月光宝盒"
 },
@@ -55,10 +59,6 @@
    "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
    "name":"🐹agit/abc线路"
  },
-{
-"url":"https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg",
-"name":"🐹agit/66666线路"
-},
 {
 "url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
 "name":"🐹蚂蚁论坛线路"
