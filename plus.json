@@ -25,28 +25,28 @@
             "date": "多多TV作者大聪明每日维护"
         },
         {
-            "key": "🍓一影视线路",
-            "name": "🍓②一影视线路",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-            "date": "比神器推送连接快"
-        },
-        {
             "key": "🐹蚂蚁论坛线路",
-            "name": "🐹③蚂蚁线路",
+            "name": "🐹②蚂蚁线路",
             "ext": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
             "date": "知名电视软件论坛"
         },
         {
             "key": "🍍月光宝盒",
-            "name": "🍍④月光宝盒",
+            "name": "🍍③月光宝盒",
             "ext": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
             "date": "TVBox开发大佬"
         },
         {
             "key": "🍊南风线路",
-            "name": "🍊⑤南风线路",
+            "name": "🍊④南风线路",
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "date": "经典Yoursmile线路"
+        },
+        {
+            "key": "🍓一影视线路",
+            "name": "🍓⑤一影视线路",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+            "date": "一影视视频软件专线"
         },
         {
             "key": "🍋神器线路",
