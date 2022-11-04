@@ -20,7 +20,7 @@
             "name": "💎唐三线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+            "url": "https://raw.fastgit.org/tv-player/tvbox-line/main/tv/fj.json",
             "name": "💎一影视线路"
         },
         {
@@ -28,15 +28,15 @@
            "name":"💎星辰线路"
         },
         {
-            "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/33.txt",
+            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
             "name": "💎佰欣园线路"
         },
         {
-            "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "url": "https://raw.fastgit.org/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
             "name": "💎FreeTV线路"
         },
         {
-            "url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
+            "url": "https://raw.fastgit.org/2hacc/TVBox/main/tvbox",
             "name": "💎二哈线路"
         },
          {
