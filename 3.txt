@@ -19,6 +19,10 @@
             "url": "https://6dlj.cn/tang3",
             "name": "💎唐三线路"
         },
+       {
+            "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
+            "name": "💎公益线路"
+        },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
             "name": "💎一影视线路"
