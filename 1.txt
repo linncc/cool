@@ -20,7 +20,7 @@
           "name":"🚀南风线路"
         },
         {
-         "url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+         "url":"https://raw.fastgit.org/kebedd69/TVbox-interface/main/甜蜜.json",
          "name":"🚀甜蜜线路"
         },
         {
