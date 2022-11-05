@@ -20,7 +20,7 @@
           "name":"🚀南风线路"
         },
         {
-         "url":"https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/甜蜜.json",
+         "url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
          "name":"🚀甜蜜线路"
         },
         {
