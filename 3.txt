@@ -24,7 +24,7 @@
             "name": "💎公益线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+            "url": "https://raw.iqiq.io/tv-player/tvbox-line/main/tv/fj.json",
             "name": "💎一影视线路"
         },
         {
@@ -32,15 +32,15 @@
            "name":"💎星辰线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/33.txt",
+            "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/33.txt",
             "name": "💎佰欣园线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "url": "https://raw.iqiq.io.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
             "name": "💎FreeTV线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox",
+            "url": "https://raw.iqiq.io.com/2hacc/TVBox/main/tvbox",
             "name": "💎二哈线路"
         },
          {
@@ -56,7 +56,7 @@
             "name": "💎乱世线路"
         },             
         {
-            "url": "https://raw.githubusercontent.com/chengxueli818913/TVBox/main/sc.json",
+            "url": "https://raw.iqiq.io.com/chengxueli818913/TVBox/main/sc.json",
             "name": "💎chengxueli线路"
         }
  
