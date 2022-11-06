@@ -36,10 +36,6 @@
             "name": "🚀乱世线路"
         }, 
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🚀南风线路"
-        },
-        {
             "url": "http://tvbox.lengniuge.eu.org/ts",
             "name": "🚀冷牛哥线路"
         },
@@ -54,6 +50,10 @@
         {
             "url": "http://52bsj.vip:98/wuai",
             "name": "🚀吾爱线路"
-        }
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🚀南风线路"
+        },
     ]
 }
