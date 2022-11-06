@@ -49,7 +49,7 @@
         },
         {
             "url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
-            "name": "🚀张宏线路"
+            "name": "🚀潇洒线路"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
