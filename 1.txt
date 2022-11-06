@@ -20,24 +20,12 @@
           "name":"🚀南风线路"
         },
         {
-         "url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-         "name":"🚀甜蜜线路"
-        },
-        {
           "url":"http://tvbox.lengniuge.eu.org/ts",
           "name":"🚀冷牛哥线路"
         },
         {
           "url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
           "name":"🚀小苹果线路"
-        },
-       {
-          "url":"http://dxawi.github.io/0/0.json",
-          "name":"🚀dxawi0线路"
-        },
-        {
-          "url":"http://dxawi.github.io/0/1.json",
-          "name":"🚀dxawi1线路"
         },
         {
           "url":"https://raw.liucn.cc/box/m.json",
@@ -50,10 +38,6 @@
         {
           "url":"http://刚刚.live/猫",
           "name":"🚀刚刚线路"
-        },
-        {
-           "url": "https://download.kstore.space/download/2863/01.txt",
-           "name":"🚀潇洒线路"
         }
      ]
    }
