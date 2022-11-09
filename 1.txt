@@ -32,6 +32,10 @@
             "name": "🚀俊佬线路"
         },
         {
+            "url": "http://bt.hm.iqinu.com:32000/box/lm.json",
+            "name": "🚀龙门影视"
+        }, 
+        {
             "url": "http://www.dmtv.ml/mao/single.json",
             "name": "🚀乱世线路"
         }, 
