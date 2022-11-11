@@ -24,6 +24,18 @@
             "name": "💎甜蜜线路"
         },
         {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "💎霜辉月明py"
+        },
+        {
+            "url": "http://drpy.site/js1",
+            "name": "💎小雅DR线路"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "💎菜妮丝xBPQ"
+        },
+        {
             "url": "http://dxawi.github.io/0/0.json",
             "name": "💎dxawi0线路"
         },
