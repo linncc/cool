@@ -16,7 +16,7 @@
             "name": "💎道长T4线路"
         },
         {
-            "url": "https://6dlj.cn/tang3",
+            "url": "https://pandora2277.github.io/tang.bmp",
             "name": "💎唐三线路"
         },
         {
