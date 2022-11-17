@@ -36,8 +36,8 @@
             "name": "🚀乱世线路"
         }, 
         {
-            "url": "http://tvbox.lengniuge.eu.org/ts",
-            "name": "🚀冷牛哥线路"
+            "url": "https://agit.ai/lengniuge/tv/raw/branch/master/ts",
+            "name": "🚀楞牛哥线路"
         },
         {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
