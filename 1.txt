@@ -20,10 +20,6 @@
             "name": "🚀公益线路"
         },
         {
-            "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
-            "name": "🚀星辰线路"
-        },
-        {
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
             "name": "🚀月光宝盒"
         },
