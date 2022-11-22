@@ -44,6 +44,10 @@
             "name": "🚀吾爱线路"
         },
         {
+            "url": "http://8.210.220.114:8888/down/c9s9YQVDdqYw.json",
+            "name": "🚀星辰线路"
+        },
+        {
             "url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
             "name": "🚀潇洒线路"
         },
