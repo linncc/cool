@@ -16,7 +16,7 @@
             "name": "💎道长T4线路"
         },
         {
-            "url": "https://pandora2277.github.io/tang.bmp",
+            "url": "https://hutool.ml/tang",
             "name": "💎唐三线路"
         },
         {
