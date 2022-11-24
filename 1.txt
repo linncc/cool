@@ -12,6 +12,10 @@
             "name": "🏡应用多多家庭版"
         },
         {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/txt/live.txt",
+            "name": "🏡电视合集"
+        },
+        {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀巧记线路"
         },
