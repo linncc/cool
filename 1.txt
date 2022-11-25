@@ -16,7 +16,7 @@
             "name": "🏡电视合集"
         },
         {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
             "name": "🚀巧记线路"
         },
         {
