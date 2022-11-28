@@ -16,12 +16,12 @@
             "name": "🏡电视合集"
         },
         {
-            "url": "http://catvod.fun:8001/tv/m.json",
-            "name": "🚀馒头线路"
+            "url": "http://w.g9.pub:66/381203888/panda.jpg",
+            "name": "🚀熊猫线路"
         },
         {
-            "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
-            "name": "🚀公益线路"
+            "url": "http://catvod.fun:8001/tv/m.json",
+            "name": "🚀馒头线路"
         },
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
