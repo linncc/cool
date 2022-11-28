@@ -16,8 +16,8 @@
             "name": "🏡电视合集"
         },
         {
-            "url": "http://w.g9.pub:66/381203888/666.json",
-            "name": "🚀熊猫线路"
+            "url": "http://catvod.fun:8001/tv/m.json",
+            "name": "🚀馒头线路"
         },
         {
             "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
