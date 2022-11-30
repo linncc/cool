@@ -12,10 +12,6 @@
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://gitlab.com/duomv/duo/-/raw/main/txt/live.txt",
-            "name": "🏡电视合集"
-        },
-        {
             "url": "http://w.g9.pub:66/381203888/panda.jpg",
             "name": "🚀熊猫线路"
         },
