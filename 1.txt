@@ -8,6 +8,10 @@
             "name": "🔔点击选择下方线路"
         },
         {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/txt/live.txt",
+            "name": "🏡电视合集"
+        },
+        {
             "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": "🏡应用多多家庭版"
         },
