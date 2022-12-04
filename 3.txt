@@ -12,13 +12,13 @@
             "name": "🏡应用多多家庭版"
         },
         {
+            "url": "http://101.34.67.237/config/3",
+            "name": "💎小雅JS线路"
+        },
+        {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "💎俊佬线路"
         }, 
-        {
-            "url": "http://101.34.67.237/config/3",
-            "name": "💎道长T4线路"
-        },
         {
             "url": "https://hutool.ml/tang",
             "name": "💎唐三线路"
