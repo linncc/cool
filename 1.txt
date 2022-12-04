@@ -13,7 +13,7 @@
         },
         {
             "url": "http://w.g9.pub:66/381203888/panda.jpg",
-            "name": "🚀熊猫线路"
+            "name": "🚀肥猫线路"
         },
         {
             "url": "http://catvod.fun:8001/tv/m.json",
