@@ -24,6 +24,10 @@
             "name": "🚀蓝魔线路"
         },
         {
+            "url": "http://zhaxy.3vdo.club",
+            "name": "🚀葉落线路"
+        },
+        {
             "url": "http://catvod.fun:8001/tv/m.json",
             "name": "🚀馒头线路"
         },
