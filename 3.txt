@@ -24,7 +24,7 @@
             "name": "💎唐三线路"
         },
         {
-            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
             "name": "💎甜蜜线路"
         },
         {
@@ -44,23 +44,23 @@
             "name": "💎dxawi1线路"
         },
         {
-            "url": "https://raw.iqiq.io/tv-player/tvbox-line/main/tv/fj.json",
+            "url": "https://raw.fastgit.org/tv-player/tvbox-line/main/tv/fj.json",
             "name": "💎一影视线路"
         },
         {
-            "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/33.txt",
+            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
             "name": "💎佰欣园线路"
         },
         {
-            "url": "https://raw.iqiq.io.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "url": "https://raw.fastgit.org/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
             "name": "💎FreeTV线路"
         },
         {
-            "url": "https://raw.iqiq.io.com/2hacc/TVBox/main/tvbox",
+            "url": "https://raw.fastgit.org/2hacc/TVBox/main/tvbox",
             "name": "💎二哈线路"
         },
         {
-            "url": "https://raw.iqiq.io.com/chengxueli818913/TVBox/main/sc.json",
+            "url": "https://raw.fastgit.org/chengxueli818913/TVBox/main/sc.json",
             "name": "💎chengxueli线路"
         }
     ]
