@@ -50,6 +50,10 @@
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🚀南风线路"
+        },
+        {
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "🚀乱世线路"
         }
     ]
 }
