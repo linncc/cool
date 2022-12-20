@@ -20,6 +20,10 @@
             "name": "🚀肥猫线路"
         },
         {
+            "url": "https://app.easybox.vip/dy",
+            "name": "🚀easybox线路"
+        },
+        {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀巧记线路"
         },
