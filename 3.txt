@@ -48,10 +48,6 @@
             "name": "💎一影视线路"
         },
         {
-            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
-            "name": "💎佰欣园线路"
-        },
-        {
             "url": "https://raw.fastgit.org/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
             "name": "💎FreeTV线路"
         },
