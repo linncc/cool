@@ -4,7 +4,7 @@
 {
     "urls": [
         {
-            "url": "https://yydsys.top/duo/v.json",
+            "url": "http://aduo.eu.org/duo/v.json",
             "name": " 🔔请点击选择下方线路"
         },
         {
