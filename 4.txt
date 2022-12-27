@@ -41,7 +41,7 @@
             "name": "待添加"
         },
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"http://aduo.eu.org/duo/m.json",
             "name": "待添加"
         },
           {
