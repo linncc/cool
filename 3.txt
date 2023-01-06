@@ -12,8 +12,12 @@
             "name": "🏡应用多多家庭版"
         },
         {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/haiK.json",
+            "name": "💎道长线路"
+        },
+        {
             "url": "http://101.34.67.237/config/3",
-            "name": "💎小雅JS线路"
+            "name": "💎小雅线路"
         },
         {
             "url": "http://home.jundie.top:81/top98.json",
