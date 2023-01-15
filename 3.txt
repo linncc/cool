@@ -12,7 +12,7 @@
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://gitlab.com/duomv/duo/-/raw/main/haiK.json",
+            "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "💎道长线路"
         },
         {
