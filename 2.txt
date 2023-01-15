@@ -56,7 +56,7 @@
             "name": "🐹小马线路"
         },
                 {
-            "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
+            "url": "https://0a.fit/0110",
             "name": "🐹蚂蚁论坛线路"
         }
     ]
