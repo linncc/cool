@@ -10,10 +10,6 @@
         {
             "url": "https://yydsys.top/duo/v.json",
             "name": "🏡应用多多家庭版"
-        },
-        {
-            "url": "https://源享家.ml/tv",
-            "name": "🐹源享家线路"
         },          
         {
             "url": "http://111.67.196.181/mtv/meow.txt",
