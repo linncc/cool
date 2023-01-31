@@ -9,7 +9,11 @@
         {
             "url": "https://yydsys.top/duo/v.json",
             "name": "🏡应用多多家庭版"
-        },    
+        },  
+        {
+            "url": "https://肥猫.love",
+            "name": "🚀肥猫线路"
+        },           
         {
             "url": "https://hutool.ml/tang",
             "name": "🚀唐三线路"
