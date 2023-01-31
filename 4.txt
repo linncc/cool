@@ -41,11 +41,11 @@
             "name": "待添加"
         },
           {
-            "url":"http://aduo.eu.org/duo/m.json",
+            "url":"https://yydsys.top/duo/v.json",
             "name": "待添加"
         },
           {
-            "url":"https://yydsys.top/duo/m.json",
+            "url":"https://nobug.eu.org/duo/m.json",
             "name": "待添加"
         }
       ]  
