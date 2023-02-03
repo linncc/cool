@@ -31,7 +31,7 @@
             "name": "💎甜蜜线路"
         },
         {
-            "url": "https://raw.fastgit.org/xianyuyimu/TVBOX/main/TVBox/一木自用.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
             "name": "💎一木线路"
         },        
         {
