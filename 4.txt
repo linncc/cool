@@ -45,7 +45,7 @@
             "name": "待添加"
         },
           {
-            "url":"https://nobug.eu.org/duo/m.json",
+            "url":"https://yydsys.top/duo/m.json",
             "name": "待添加"
         }
       ]  
