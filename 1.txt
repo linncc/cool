@@ -3,7 +3,7 @@
 {
     "urls": [
         {
-            "url": "https://yydsys.top/duo/v.json",
+            "url": "https://nobug.eu.org/duo/v.json",
             "name": "🔔点击选择下方线路"
         },
         {
