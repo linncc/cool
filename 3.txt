@@ -11,10 +11,6 @@
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-            "name": "💎FreeTV线路"
-        },
-        {
             "url": "http://www.dmtv.ml/mao/single.json",
             "name": "💎乱世线路"
         }, 
