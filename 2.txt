@@ -43,7 +43,7 @@
             "name": "🐹云星日记"
         },
         {
-            "url": "https://0a.fit/0111",
+            "url": "https://la.kstore.space/download/2883/0110.txt",
             "name": "🐹蚂蚁论坛线路"
         },
         {
