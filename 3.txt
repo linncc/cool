@@ -4,7 +4,7 @@
     "urls": [
         {
             "url": "http://aduo.eu.org/duo/v.json",
-            "name": " 🔔请点击选择下方线路"
+            "name": " 🔔切换线路后请手动刷新"
         },
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
