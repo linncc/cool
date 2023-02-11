@@ -2,7 +2,7 @@
     "urls": [
            {
             "url":"https://nobug.eu.org/duo/v.json",
-            "name": " 🐞请点击选择下方线路"
+            "name": " 🐞切换线路后请手动刷新"
         },
           {
             "url":"https://yydsys.top/duo/v.json",
