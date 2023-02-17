@@ -17,7 +17,11 @@
         {
             "url": "https://肥猫.love",
             "name": "🚀肥猫线路"
-        },  
+        },
+        {
+            "url": "https://yydsys.top/duo/lm.json",
+            "name": "🚀龙门影视"
+        },          
         {
             "url": "http://饭太硬.ga/x/o.json",
             "name": "🚀饭太硬线路"
@@ -25,11 +29,7 @@
         {
             "url": "https://hutool.ml/tang",
             "name": "🚀唐三线路"
-        },  
-        {
-            "url": "https://yydsys.top/duo/lm.json",
-            "name": "🚀龙门影视"
-        },                                          
+        },                                           
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
