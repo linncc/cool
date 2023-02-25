@@ -3,16 +3,20 @@
 {
     "urls": [
         {
-            "url": "https://nobug.eu.org/duo/v.json",
-            "name": "🔔切换线路后请手动刷新"
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "🔔以下接口本公众号负责维护"
         },
         {
             "url": "https://yydsys.top/duo/v.json",
             "name": "🏡应用多多家庭版"
-        },
+        },  
         {
             "url": "https://yydsys.top/duo/x.json",
             "name": "🚀阿里专线"
+        },        
+        {
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "🔔以下接口本公众号只负责搜集"
         }, 
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
