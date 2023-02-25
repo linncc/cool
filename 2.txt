@@ -3,8 +3,16 @@
 {
     "urls": [
         {
-            "url": "https://yydsys.top/duo/x.json",
-            "name": "🚀阿里专线"
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "🔔以下接口本公众号负责维护"
+        },
+        {
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "🏡应用多多家庭版"
+        },        
+        {
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "🔔以下接口本公众号只负责搜集"
         }, 
         {
             "url": "http://52bsj.vip:98/cl",
