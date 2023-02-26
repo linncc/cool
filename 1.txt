@@ -13,7 +13,11 @@
         {
             "url": "https://yydsys.top/duo/x.json",
             "name": "🚀阿里专线"
-        },        
+        }, 
+        {
+            "url": "https://yydsys.top/duo/o.json",
+            "name": "🚀阿里扫码"
+        },               
         {
             "url": "https://yydsys.top/duo/v.json",
             "name": "🔔以下接口本公众号只负责搜集"
