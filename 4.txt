@@ -9,7 +9,7 @@
             "name": "应用多多家庭版"
          },
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo/json/l.json",
             "name": "待添加"
         },
           {
