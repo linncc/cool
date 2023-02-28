@@ -55,7 +55,7 @@
             "name": "💎小马线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox",
+            "url": "https://tv.5ye.cc/",
             "name": "💎二哈线路"
         }
     ]
