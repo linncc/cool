@@ -1,10 +1,6 @@
 {
     "urls": [
         {
-            "url": "https://yydsys.top",
-            "name": "🔔以下接口本公众号负责维护"
-        },
-        {
             "url": "https://yydsys.top/duo/v.json",
             "name": "🏡应用多多家庭版"
         }, 
@@ -13,8 +9,8 @@
             "name": "🚀阿里专线"
         }, 
         {
-            "url": "https://www.yydsys.top",
-            "name": "🔔以下接口本公众号只负责搜集"
+            "url": "https://yydsys.top/duo/o.json",
+            "name": "🚀阿里扫码"
         },         
         {
             "url": "http://饭太硬.ga/x/o.json",
