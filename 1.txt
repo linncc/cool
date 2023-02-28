@@ -51,8 +51,8 @@
             "name": "🚀菜妮丝线路"
         },
         {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧记线路"
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "🚀巧技线路"
         },
         {
             "url": "http://101.34.67.237/config/1",
