@@ -51,7 +51,7 @@
             "name": "💎zzz1线路"
         },
         {
-            "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
+            "url": "https://szyyds.cn/tv/tvbox.json",
             "name": "💎小马线路"
         },
         {
