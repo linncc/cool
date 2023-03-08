@@ -4,7 +4,7 @@
     "urls": [
         {
             "url": "https://yydsys.top/duo/v.json",
-            "name": "🔔以下接口本公众号负责维护"
+            "name": "🔔切换线路后务必刷新接口"
         },
         {
             "url": "https://yydsys.top/duo/v.json",
@@ -13,14 +13,6 @@
         {
             "url": "https://yydsys.top/duo/x.json",
             "name": "🚀阿里专线"
-        }, 
-        {
-            "url": "https://yydsys.top/duo/o.json",
-            "name": "🚀阿里扫码"
-        },               
-        {
-            "url": "https://yydsys.top/duo/v.json",
-            "name": "🔔以下接口本公众号只负责搜集"
         }, 
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
