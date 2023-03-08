@@ -4,16 +4,12 @@
     "urls": [
         {
             "url": "https://yydsys.top/duo/v.json",
-            "name": "🔔以下接口本公众号负责维护"
+            "name": "🔔切换线路后务必刷新接口"
         },
         {
             "url": "https://yydsys.top/duo/v.json",
             "name": "🏡应用多多家庭版"
         },        
-        {
-            "url": "https://yydsys.top/duo/v.json",
-            "name": "🔔以下接口本公众号只负责搜集"
-        }, 
         {
             "url": "http://52bsj.vip:98/cl",
             "name": "🐹月光宝盒"
