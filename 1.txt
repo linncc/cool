@@ -3,7 +3,7 @@
 {
     "urls": [
         {
-            "url": "https://yydsys.top/duo/v.json",
+            "url": "https://yydsys.top/duo",
             "name": "🔔切换线路后务必刷新接口"
         },
         {
