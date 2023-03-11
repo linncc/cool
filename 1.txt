@@ -3,11 +3,11 @@
 {
     "urls": [
         {
-            "url": "https://yydsys.top/duo",
+            "url": "https://yydsys.top/duo/v.json",
             "name": "🔔切换线路后务必刷新接口"
         },
         {
-            "url": "https://yydsys.top/duo/v.json",
+            "url": "https://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },  
         {
