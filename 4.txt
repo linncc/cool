@@ -5,43 +5,43 @@
             "name": " 🐞切换线路后请手动刷新"
         },
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo",
             "name": "应用多多家庭版"
          },
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo",
             "name": "待添加"
         },
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo",
             "name": "待添加"
         }, 
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo",
             "name": "待添加"
         }, 
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo",
             "name": "待添加"
         }, 
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo",
             "name": "待添加"
         },
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo",
             "name": "待添加"
         },
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo",
             "name": "待添加"
         },
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo",
             "name": "待添加"
         },
           {
-            "url":"https://yydsys.top/duo/v.json",
+            "url":"https://yydsys.top/duo",
             "name": "待添加"
         },
           {
