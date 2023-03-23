@@ -15,7 +15,7 @@
             "name": "🐹月光宝盒"
         },
         {
-            "url": "http://tvmvip.com/xc.json",
+            "url": "http://134.122.170.64/xc.json",
             "name": "🐹星辰线路"
         },          
         {
