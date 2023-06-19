@@ -1,0 +1,49 @@
+{
+    "urls": [
+           {
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "🔔切换线路后请手动刷新"
+        },
+          {
+            "url":"https://yydsys.top/duo",
+            "name": "🏡应用多多家庭版"
+         },
+          {
+            "url":"https://download.kstore.space/download/3313/mao/ymz",
+            "name": "🏄️夜猫子线路"
+        },
+          {
+            "url":"https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json",
+            "name": "🏄️荷城茶秀"
+        }, 
+          {
+            "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/js.json",
+            "name": "🏄️高天流云"
+        }, 
+          {
+            "url":"https://raw.iqiq.io/Yosakoii/Yosakoii.github.io/main/2023.json",
+            "name": "🏄️Yosakoii"
+        },
+          {
+            "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "name": "🏄️胖鸭线路"
+        },
+          {
+            "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "🏄️元兴线路"
+        },
+          {
+            "url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json",
+            "name": "🏄️刺桐线路"
+        },
+          {
+            "url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
+            "name": "🏄️小胡线路"
+        },
+        {
+            "url": "https://www.lianyingtv.com/fast/fast",
+            "name": "🏄️恋影线路"
+        }		
+      ]  
+}
+
