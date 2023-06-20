@@ -10,7 +10,7 @@
          },
           {
             "url":"https://download.kstore.space/download/3313/mao/ymz",
-            "name": "🏄️夜猫子线路"
+            "name": "🏄️夜猫子(有跑马灯)"
         },
           {
             "url":"https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json",
