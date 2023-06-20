@@ -37,7 +37,7 @@
             "name": "🏄️刺桐线路"
         },
           {
-            "url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
+            "url":"https://xzam.cn/tv",
             "name": "🏄️小胡线路"
         },
         {
