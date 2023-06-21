@@ -19,7 +19,7 @@
             "name": "💎乱世线路"
         }, 
         {
-            "url": "https://raw.iqiq.io//tv-player/tvbox-line/main/tv/fj.json",
+            "url": "https://raw.iqiq.io/tv-player/tvbox-line/main/tv/fj.json",
             "name": "💎一影视线路"
         },
         {
