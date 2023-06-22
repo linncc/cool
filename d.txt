@@ -23,10 +23,6 @@
             "name": "🏄️高天流云"
         }, 
           {
-            "url":"https://raw.iqiq.io/Yosakoii/Yosakoii.github.io/main/2023.json",
-            "name": "🏄️Yosakoii"
-        },
-          {
             "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
             "name": "🏄️胖鸭线路"
         },
