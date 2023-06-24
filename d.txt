@@ -35,7 +35,7 @@
             "name": "🏄️刺桐线路"
         },
           {
-            "url":"https://xzam.cn/tv",
+            "url":"http://xzam.cn/tv",
             "name": "🏄️小胡线路"
         },
         {
