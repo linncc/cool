@@ -19,19 +19,19 @@
             "name": "💎乱世线路"
         }, 
         {
-            "url": "https://raw.kgithub.com/tv-player/tvbox-line/main/tv/fj.json",
+            "url": "https://raw.fastgit.org/tv-player/tvbox-line/main/tv/fj.json",
             "name": "💎一影视线路"
         },
         {
-            "url": "https://raw.kgithub.com/chengxueli818913/maoTV/main/44.txt",
+            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/44.txt",
             "name": "💎佰欣园线路"
         },
         {
-            "url": "https://raw.kgithub.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
             "name": "💎甜蜜线路"
         },
         {
-            "url": "https://raw.kgithub.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+            "url": "https://raw.fastgit.org/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
             "name": "💎一木线路"
         },        
         {
