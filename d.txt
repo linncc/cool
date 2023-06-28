@@ -15,11 +15,11 @@
             "name": "🏄️夜猫子(有跑马灯)"
         },
           {
-            "url":"https://raw.gitmirror.com/XiaoYiChaHang/tvbox/main/ysj.json",
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
             "name": "🏄️荷城茶秀"
         }, 
           {
-            "url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/js.json",
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🏄️高天流云"
         }, 
           {
