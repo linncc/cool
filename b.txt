@@ -11,6 +11,10 @@
             "name": "🏡应用多多家庭版"
         },
         {
+            "url": "http://cdn.yydsys.top/duo",
+            "name": "🏡应用多多备用"
+        },
+        {
             "url": "https://la.kstore.space/download/2863/01.txt",
             "name": "🐹潇洒线路"
         },

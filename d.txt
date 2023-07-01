@@ -2,14 +2,18 @@
 //转载请注明出处
 {
     "urls": [
-           {
-            "url":"http://yydsys.top/duo/v.json",
-            "name": "🔔切换线路后请手动刷新"
+        {
+            "url": "http://yydsys.top/duo/v.json",
+            "name": "🔔切换线路后务必刷新接口"
         },
-          {
-            "url":"http://yydsys.top/duo",
+        {
+            "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
-         },
+        },
+        {
+            "url": "http://cdn.yydsys.top/duo",
+            "name": "🏡应用多多备用"
+        },
           {
             "url":"https://download.kstore.space/download/3313/mao/ymz",
             "name": "🏄️夜猫子(有跑马灯)"
