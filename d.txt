@@ -35,16 +35,8 @@
             "name": "🏄️元兴线路"
         },
           {
-            "url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json",
-            "name": "🏄️刺桐线路"
-        },
-          {
             "url":"http://xzam.cn/tv",
             "name": "🏄️小胡线路"
-        },
-        {
-            "url": "https://www.lianyingtv.com/fast/fast",
-            "name": "🏄️恋影线路"
         }		
       ]  
 }
