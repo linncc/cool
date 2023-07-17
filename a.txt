@@ -55,7 +55,7 @@
             "name": "🚀小雅线路"
         },   
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/main/py.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀霜辉月明"
         },
         {
