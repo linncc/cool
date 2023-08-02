@@ -19,7 +19,7 @@
             "name": "🏄️夜猫子(有跑马灯)"
         },
           {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+            "url":"http://rihou.cc:88/荷城茶秀",
             "name": "🏄️荷城茶秀"
         }, 
           {
