@@ -4,14 +4,14 @@
     "urls": [
         {
             "url": "http://yydsys.top/duo/v.json",
-            "name": "🔔切换线路后务必刷新接口"
+            "name": "🚨软件接口均免费严禁贩卖🚨"
         },
         {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "http://cdn.yydsys.top/duo",
+            "url": "https://pan.shangui.cc/f/v68xuk/xm.json",
             "name": "🏡应用多多备用"
         },
         {
@@ -23,19 +23,15 @@
             "name": "💎乱世线路"
         }, 
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-            "name": "💎一影视线路"
+            "url": "http://meowtv.cn/tv",
+            "name": "💎喵影视线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
-            "name": "💎佰欣园线路"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
             "name": "💎甜蜜线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
             "name": "💎一木线路"
         },        
         {

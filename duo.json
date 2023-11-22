@@ -5,27 +5,27 @@
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "http://cdn.yydsys.top/duo",
+            "url": "https://pan.shangui.cc/f/v68xuk/xm.json",
             "name": "🏡应用多多备用"
         },
         {
             "url": "http://yydsys.top/duo/ali",
             "name": "🚀阿里精品专线"
-        }, 		
+        }, 
+        {
+            "url": "https://pan.shangui.cc/f/eoVMFQ/ppa.json",
+            "name": "🚀阿里备用专线"
+        }, 			
         {
             "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬线路"
         },          
         {
-            "url": "http://肥猫.love",
+            "url": "http://肥猫.live",
             "name": "🚀肥猫线路"
         },                    
         {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "🚀唐三线路"
-        }, 
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                        
         {
@@ -33,7 +33,7 @@
             "name": "🚀道长线路"
         },                    
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀香雅情线路"
         },   
         {
@@ -43,17 +43,21 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬线路"
-        }, 
+        },
         {
-            "url": "http://101.34.67.237/config/1",
-            "name": "🚀小雅线路"
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米线路"
+        },   		
+        {
+            "url": "http://rihou.cc:88/荷城茶秀",
+            "name": "🚀荷城茶秀"
         },  		
         {
-            "url": "https://la.kstore.space/download/2863/01.txt",
+            "url": "https://cn.kstore.space/download/2863/01.txt",
             "name": "🐹潇洒线路"
         },
         {
-            "url": "https://la.kstore.space/download/2883/0110.txt",
+            "url": "https://cn.kstore.space/download/2883/0110.txt",
             "name": "🐹蚂蚁论坛线路"
         },
         {
@@ -69,7 +73,7 @@
             "name": "🐹云星日记"
         }, 
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
+            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
             "name": "🐹月光宝盒"
         },               
         {
@@ -79,10 +83,14 @@
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🐹运输车(有跑马灯)"
-        },         
+        },
+          {
+            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+            "name": "🐹夜猫子"
+        }, 		
         {
-            "url":"https://download.kstore.space/download/3313/mao/ymxx",
-            "name": "🐹夜猫子(有跑马灯)"
+            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🐹高天流云"
         } 
     ]
 }

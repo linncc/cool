@@ -4,26 +4,30 @@
     "urls": [
         {
             "url": "http://yydsys.top/duo/v.json",
-            "name": "🔔切换线路后务必刷新接口"
+            "name": "🚨软件接口均免费严禁贩卖🚨"
         },
         {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "http://cdn.yydsys.top/duo",
+            "url": "https://pan.shangui.cc/f/v68xuk/xm.json",
             "name": "🏡应用多多备用"
         },
           {
-            "url":"https://download.kstore.space/download/3313/mao/ymxx",
-            "name": "🏄️夜猫子(有跑马灯)"
+            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
+            "name": "🏄️业余线路"
         },
           {
             "url":"http://rihou.cc:88/荷城茶秀",
             "name": "🏄️荷城茶秀"
         }, 
           {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+            "name": "🏄️夜猫子"
+        }, 
+          {
+            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🏄️高天流云"
         }, 
           {
@@ -35,8 +39,8 @@
             "name": "🏄️元兴线路"
         },
           {
-            "url":"http://xzam.cn/tv",
-            "name": "🏄️小胡线路"
+            "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
+            "name": "🏄️猫爪线路"
         }		
       ]  
 }

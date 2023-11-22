@@ -4,18 +4,18 @@
     "urls": [
         {
             "url": "http://yydsys.top/duo/v.json",
-            "name": "🔔切换线路后务必刷新接口"
+            "name": "🚨软件接口均免费严禁贩卖🚨"
         },
         {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "http://cdn.yydsys.top/duo",
+            "url": "https://pan.shangui.cc/f/v68xuk/xm.json",
             "name": "🏡应用多多备用"
         },
         {
-            "url": "https://la.kstore.space/download/2863/01.txt",
+            "url": "https://cn.kstore.space/download/2863/01.txt",
             "name": "🐹潇洒线路"
         },
         {
@@ -23,11 +23,11 @@
             "name": "🐹南风线路"
         },
         {
-            "url": "https://la.kstore.space/download/2883/0110.txt",
+            "url": "https://cn.kstore.space/download/2883/0110.txt",
             "name": "🐹蚂蚁论坛线路"
         },                                
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
+            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
             "name": "🐹月光宝盒"
         },
         {
@@ -42,14 +42,6 @@
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "🐹云星日记"
         },                  
-        {
-            "url": "http://miaotvs.cn/meow",
-            "name": "🐹喵影视线路"
-        },
-        {
-            "url": "https://源享家.ml/23424",
-            "name": "🐹源享家线路"
-        }, 
         {
             "url": "http://8.210.232.168/xc.json",
             "name": "🐹星辰线路"

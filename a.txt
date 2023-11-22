@@ -4,34 +4,34 @@
     "urls": [
         {
             "url": "http://yydsys.top/duo/v.json",
-            "name": "🔔切换线路后务必刷新接口"
+            "name": "🚨软件接口均免费严禁贩卖🚨"
         },
         {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "http://cdn.yydsys.top/duo",
+            "url": "https://pan.shangui.cc/f/v68xuk/xm.json",
             "name": "🏡应用多多备用"
         },
         {
             "url": "http://yydsys.top/duo/ali",
             "name": "🚀阿里精品专线"
+        }, 
+        {
+            "url": "https://pan.shangui.cc/f/eoVMFQ/ppa.json",
+            "name": "🚀阿里备用专线"
         }, 	
         {
             "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬线路"
         },                      
         {
-            "url": "http://肥猫.love",
+            "url": "http://肥猫.live",
             "name": "🚀肥猫线路"
-        },                
+        },                   
         {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "🚀唐三线路"
-        },      
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                               
         {
@@ -39,9 +39,13 @@
             "name": "🚀道长线路"
         },
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀香雅情线路"
-        },   
+        },  
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米线路"
+        },    
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "🚀菜妮丝线路"
@@ -55,7 +59,7 @@
             "name": "🚀小雅线路"
         },   
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀霜辉月明"
         },
         {
