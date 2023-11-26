@@ -31,7 +31,7 @@
             "name": "🚀肥猫线路"
         },                   
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://fm.t4tv.hz.cz/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                               
         {
