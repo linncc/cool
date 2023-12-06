@@ -43,9 +43,9 @@
             "name": "🚀香雅情线路"
         },  
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
+            "url": "https://already.free.hr/okcaptain/okjar/rm/ok.json",
             "name": "🚀OK佬线路"
-        },  
+        }, 
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "🚀小米线路"
