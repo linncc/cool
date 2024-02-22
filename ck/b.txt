@@ -16,7 +16,7 @@
         },        
         {
             "url": "http://rihou.vip:55/天天开心",
-            "name": "🐹多多┃日后线路"
+            "name": "🐹多多┃开心线路"
         },                              
         {
             "url": "https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json",
