@@ -7,7 +7,7 @@
             "name": "🏄️多多┃业余线路"
         },
           {
-            "url":"https://atomgit.com/xymz/ymz/raw/master/Xymz.json",
+            "url":"https://raw.gitcode.com/Xymz/ymz/blobs/52d3bc418e8211ff094ec57bd2e79356ab975deb/ymz",
             "name": "🏄️多多┃夜猫子"
         }, 
           {
