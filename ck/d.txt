@@ -4,35 +4,35 @@
     "urls": [
           {
             "url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
-            "name": "🏄️多多┃业余线路"
+            "name": "🏄️业余线路"
         },
           {
             "url":"https://raw.gitcode.com/Xymz/ymz/blobs/52d3bc418e8211ff094ec57bd2e79356ab975deb/ymz",
-            "name": "🏄️多多┃夜猫子"
+            "name": "🏄️夜猫子"
         }, 
           {
             "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🏄️多多┃高天流云"
+            "name": "🏄️高天流云"
         }, 
           {
             "url":"http://sinopacifichk.com/box/56.txt",
-            "name": "🏄️多多┃太平洋线路"
+            "name": "🏄️太平洋线路"
         },
           {
             "url":"https://wds.ecsxs.com/230989.json",
-            "name": "🏄️多多┃春盈线路"
+            "name": "🏄️春盈线路"
         },		
           {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
-            "name": "🏄️多多┃二哈线路"
+            "name": "🏄️二哈线路"
         },
           {
             "url":"http://cdn.qiaoji8.com/tvbox.json",
-            "name": "🏄️多多┃巧技线路"
+            "name": "🏄️巧技线路"
         },
           {
             "url":"http://www.wya6.cn/tv/yc.json",
-            "name": "🏄️多多┃无意线路"
+            "name": "🏄️无意线路"
         }		
       ]  
 }
