@@ -25,10 +25,6 @@
             "name": "🚀Ray线路"
         },				
         {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "🚀俊佬线路"
-        },
-        {
             "url": "http://xhww.fun/小米/DEMO.json",
             "name": "🚀小米线路"
         },   		
@@ -40,6 +36,10 @@
             "url": "https://cn.kstore.space/download/2863/01.txt",
             "name": "🐹潇洒线路"
         },
+       {
+            "url": "http://rihou.vip:55/天天开心",
+            "name": "🐹开心线路"
+        },          		
         {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
             "name": "🐹D佬魔改线路"
@@ -51,7 +51,11 @@
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🐹南风线路"
-        },     
+        }, 
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "🐹摸鱼线路"
+        },   		
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "🐹云星日记"
@@ -63,22 +67,30 @@
         {
             "url": "http://meowtv.cn/tv",
             "name": "🐹喵影视线路"
+        },
+        {
+            "url": "http://www.liuyunw.com:88/img",
+            "name": "🐹神仙线路"
+        },	
+        {
+            "url":"http://www.wya6.cn/tv/yc.json",
+            "name": "🏄️无意线路"
         },		
         {
             "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
             "name": "🐹吾爱线路"
         },		
         {
-            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-            "name": "🐹运输车线路"
-        },
-          {
             "url":"https://raw.gitcode.com/Xymz/ymz/blobs/52d3bc418e8211ff094ec57bd2e79356ab975deb/ymz",
             "name": "🐹夜猫子"
         }, 		
         {
             "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🐹高天流云"
-        } 
+        },
+        {
+            "url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+            "name": "🏄️业余线路"
+        }		
     ]
 }
