@@ -7,6 +7,10 @@
             "name": "🏄️业余线路"
         },
           {
+            "url":"http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json",
+            "name": "🏄️榴莲线路"
+        }, 
+          {
             "url":"https://raw.gitcode.com/Xymz/ymz/blobs/3e447ee2b92cbf8282c1648387380768a73efa63/YMZ",
             "name": "🏄️夜猫子"
         }, 

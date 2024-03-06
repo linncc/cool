@@ -15,10 +15,6 @@
             "name": "💎万达线路"
         },        
         {
-            "url": "https://agit.ai/kvymin/TVBox/raw/branch/master/config.json",
-            "name": "💎kvymin线路"
-        },
-        {
             "url": "http://xiaohu.xzam.cn/xiaohu",
             "name": "💎小胡线路"
         },
