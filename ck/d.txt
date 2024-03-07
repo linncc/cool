@@ -21,10 +21,6 @@
           {
             "url":"http://sinopacifichk.com/box/56.txt",
             "name": "🏄️太平洋线路"
-        },
-          {
-            "url":"https://wds.ecsxs.com/230989.json",
-            "name": "🏄️春盈线路"
         },		
           {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
