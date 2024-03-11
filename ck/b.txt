@@ -13,11 +13,7 @@
         {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
             "name": "🐹D佬魔改线路"
-        },        
-        {
-            "url": "http://rihou.vip:55/天天开心",
-            "name": "🐹开心线路"
-        },                              
+        },                                    
         {
             "url": "https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json",
             "name": "🐹月光宝盒"

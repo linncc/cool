@@ -15,6 +15,10 @@
             "name": "🏄️夜猫子"
         }, 
           {
+            "url":"http://sinopacifichk.com/box/56.txt",
+            "name": "🏄️太平洋线路"
+        },
+          {
             "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🏄️高天流云"
         }, 	
