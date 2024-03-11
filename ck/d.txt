@@ -12,7 +12,7 @@
         }, 
           {
             "url":"https://raw.gitcode.com/Xymz/ymz/blobs/3e447ee2b92cbf8282c1648387380768a73efa63/YMZ",
-            "name": "🏄️夜猫子"
+            "name": "🏄️夜猫子线路"
         }, 
           {
             "url":"http://sinopacifichk.com/box/56.txt",
