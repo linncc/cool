@@ -41,6 +41,10 @@
           {
             "url":"http://rihou.cc:88/荷城茶秀",
             "name": "🚀荷城茶秀"
+        },
+        {
+            "url": "https://agit.ai/leevi/xpg/raw/branch/master/api.json",
+            "name": "🚀水果线路"
         }
     ]
 }
