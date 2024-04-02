@@ -7,7 +7,7 @@
             "name": "🏄️业余线路"
         },
           {
-            "url":"https://files.catbox.moe/7at51h",
+            "url":"https://files.catbox.moe/eu3uj5",
             "name": "🏄️夜猫子线路"
         }, 
           {
