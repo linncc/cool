@@ -4,35 +4,35 @@
     "urls": [
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
-            "name": "💎不良帅线路"
+            "name": "💎多多💎不良帅"
         },  
         {
             "url": "https://jxjson.icu/balabala",
-            "name": "💎巴拉线路"
+            "name": "💎多多💎巴拉"
         },             
         {
             "url": "http://meowtv.cn/tv",
-            "name": "💎喵影视线路"
+            "name": "💎多多💎喵影视"
         },
         {
             "url": "https://www.macms.pro/box/3.json",
-            "name": "💎万达线路"
+            "name": "💎多多💎万达"
         },        
         {
             "url": "http://xiaohu.xzam.cn/xiaohu",
-            "name": "💎小胡线路"
+            "name": "💎多多💎小胡"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
-            "name": "💎小马线路"
+            "name": "💎多多💎小马"
         },
         {
             "url": "https://tv.lan2wan.top/candymuj.json",
-            "name": "💎看电影线路"
+            "name": "💎多多💎看电影"
         },
         {
             "url": "https://lltv8.top",
-            "name": "💎猎狼线路"
+            "name": "💎多多💎猎狼"
         }
     ]
 }

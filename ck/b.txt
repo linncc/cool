@@ -4,51 +4,47 @@
     "urls": [
         {
             "url": "https://cn.kstore.space/download/2863/01.txt",
-            "name": "🐹潇洒线路"
+            "name": "🐹多多🐹潇洒"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🐹南风线路"
+            "name": "🐹多多🐹南风"
         },
         {
             "url": "http://rihou.vip:55/天天开心",
-            "name": "🐹开心线路"
+            "name": "🐹多多🐹开心"
         },  
         {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-            "name": "🐹D佬魔改线路"
+            "name": "🐹多多🐹D佬魔改"
         },                                    
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
-            "name": "🐹月光宝盒"
+            "name": "🐹多多🐹月光"
         },
         {
             "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
-            "name": "🐹欧歌线路"
+            "name": "🐹多多🐹欧歌"
         },      
         {
             "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
-            "name": "🐹吾爱线路"
+            "name": "🐹多多🐹吾爱"
         }, 
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "🐹云星日记"
-        },   
-        {
-            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-            "name": "🐹运输车线路"
-        },                  
+            "name": "🐹多多🐹云星"
+        },               
         {
             "url": "http://8.210.232.168/xc.json",
-            "name": "🐹星辰线路"
+            "name": "🐹多多🐹星辰"
         },          
         {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "🐹分享者线路"
+            "name": "🐹多多🐹分享者"
         },
         {
             "url": "http://www.liuyunw.com:88/img",
-            "name": "🐹神仙线路"
+            "name": "🐹多多🐹神仙"
         }
     ]
 }

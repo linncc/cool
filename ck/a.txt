@@ -4,31 +4,31 @@
     "urls": [	
         {
             "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
-            "name": "🚀PG线路"
+            "name": "🚀多多🚀PG"
         }, 
         {
             "url": "http://饭太硬.top/tv",
-            "name": "🚀饭太硬线路"
+            "name": "🚀多多🚀饭太硬"
         },                      
         {
             "url": "http://肥猫.live",
-            "name": "🚀肥猫线路"
+            "name": "🚀多多🚀肥猫"
         },                                                                                
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "🚀道长线路"
+            "name": "🚀多多🚀道长"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "🚀香雅情线路"
+            "name": "🚀多多🚀香雅情"
         },  
         {
             "url": "http://tvbox.王二小放牛娃.xyz",
-            "name": "🚀放牛线路"
+            "name": "🚀多多🚀放牛"
         },	
         {
             "url": "http://xhww.fun/小米/DEMO.json",
-            "name": "🚀小米线路"
+            "name": "🚀多多🚀小米"
         },
         {
             "url": "https://100km.top/0",
@@ -45,10 +45,6 @@
           {
             "url":"http://rihou.cc:88/荷城茶秀",
             "name": "🚀荷城茶秀"
-        },
-        {
-            "url": "https://agit.ai/leevi/xpg/raw/branch/master/api.json",
-            "name": "🚀水果线路"
         }
     ]
 }
