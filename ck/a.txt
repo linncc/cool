@@ -13,7 +13,11 @@
         {
             "url": "http://肥猫.live",
             "name": "🚀多多🚀肥猫"
-        },                                                                                
+        },   
+        {
+            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt",
+            "name": "🚀多多🚀OK"
+        },                                                                              
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀多多🚀道长"
