@@ -13,7 +13,11 @@
         {
             "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt",
             "name": "🚀多多┃OK线路"
-        },                                                                              
+        },  
+        {
+            "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+            "name": "🚀多多┃PG线路"
+        },                                                                            
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀多多┃道长线路"
