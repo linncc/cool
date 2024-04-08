@@ -3,17 +3,17 @@
 {
     "urls": [	
         {
-            "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
-            "name": "🚀多多┃PG线路"
-        }, 
-        {
             "url": "http://饭太硬.top/tv",
             "name": "🚀多多┃饭太硬线路"
         },                      
         {
             "url": "http://肥猫.live",
             "name": "🚀多多┃肥猫线路"
-        },   
+        },  
+        {
+            "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+            "name": "🚀多多┃PG线路"
+        },  
         {
             "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt",
             "name": "🚀多多┃OK线路"
