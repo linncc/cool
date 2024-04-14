@@ -15,7 +15,7 @@
             "name": "🚀多多┃OK线路"
         },  
         {
-            "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/PG/main/jsm.json",
             "name": "🚀多多┃PG线路"
         },                                                                            
         {
