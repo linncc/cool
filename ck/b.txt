@@ -3,10 +3,6 @@
 {
     "urls": [
         {
-            "url": "https://cn.kstore.space/download/2863/01.txt",
-            "name": "🐹多多┃潇洒线路"
-        },
-        {
             "url": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🐹多多┃南风线路"
         },
