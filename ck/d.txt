@@ -3,7 +3,7 @@
 {
     "urls": [
           {
-            "url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+            "url":"http://47.108.190.141/yydf/yydf/bd/yydf.json",
             "name": "🏄️多多┃业余线路"
         },
           {
