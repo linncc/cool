@@ -28,7 +28,7 @@
         },   
         {
             "url": "https://gitee.com/dongchenys/liu/raw/master/hc.json",
-            "name": "🐹东辰线路"
+            "name": "🐹多多┃东辰线路"
         },         
         {
             "url": "http://8.210.232.168/xc.json",
