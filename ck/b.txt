@@ -35,7 +35,7 @@
             "name": "🐹多多┃星辰线路"
         },          
         {
-            "url": "http://www.liuyunw.com:88/img",
+            "url": "http://dp.sxtv.top:88/img",
             "name": "🐹多多┃神仙线路"
         }
     ]
