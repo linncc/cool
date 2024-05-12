@@ -31,7 +31,7 @@
             "name": "🐹多多┃吾爱线路"
         },   
         {
-            "url": "https://gitee.com/dongchenys/liu/raw/master/hc.json",
+            "url": "https://gitee.com/dongchenys/liu/raw/master/hb.json",
             "name": "🐹多多┃东辰线路"
         },  
         {
