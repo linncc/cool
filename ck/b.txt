@@ -7,7 +7,7 @@
             "name": "🐹多多┃菜妮丝线路"
         },
         {
-            "url": "https://cn.kstore.space/download/2863/01.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "🐹多多┃潇洒线路"
         },
         {
