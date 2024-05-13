@@ -7,17 +7,13 @@
             "name": "💎多多┃不良帅线路"
         },            
         {
-            "url": "http://meowtv.cn/tv",
-            "name": "💎多多┃喵影视线路"
-        },
+            "url": "https://jxjson.icu/balabala",
+            "name": "💎巴拉线路"
+        }, 
         {
             "url": "https://www.macms.pro/box/3.json",
             "name": "💎多多┃万达线路"
         },        
-        {
-            "url": "http://xiaohu.xzam.cn/xiaohu",
-            "name": "💎多多┃小胡线路"
-        },
         {
             "url": "https://szyyds.cn/tv/x.json",
             "name": "💎多多┃小马线路"
