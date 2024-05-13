@@ -19,12 +19,20 @@
             "name": "💎多多┃小马线路"
         },
         {
+            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
+            "name": "💎多多┃天微线路"
+        },
+        {
             "url": "https://tv.lan2wan.top/candymuj.json",
             "name": "💎多多┃看电影线路"
         },
         {
             "url": "http://我不是.摸鱼儿.top",
             "name": "💎多多┃摸鱼线路"
+         },
+          {
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "💎多多┃高天流云"
         }
     ]
 }
