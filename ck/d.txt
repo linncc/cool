@@ -3,7 +3,7 @@
 {
     "urls": [
           {
-            "url":"https://yydf.540734621.xyz/QQ/yydf.json",
+            "url":"clan://localhost/tvbox/yydf2024/yydf2024.json",
             "name": "🏄️多多┃业余线路"
         },
           {
