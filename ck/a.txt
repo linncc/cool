@@ -31,10 +31,6 @@
             "name": "🚀多多┃放牛线路"
         },	
         {
-            "url": "http://xhww.fun/小米/DEMO.json",
-            "name": "🚀多多┃小米线路"
-        },
-        {
             "url": "https://100km.top/0",
             "name": "🚀多多┃Ray线路"
         },			
@@ -43,7 +39,7 @@
             "name": "🚀多多┃俊佬线路"
         },    
         {
-            "url": "https://raw.liucn.cc/box/m.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "🚀多多┃老刘备线路"
         },
           {
