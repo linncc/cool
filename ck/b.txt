@@ -35,7 +35,7 @@
             "name": "🐹多多┃东辰线路"
         },  
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "🐹多多┃南风线路"
         },       
         {
