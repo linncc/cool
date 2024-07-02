@@ -3,21 +3,21 @@
 {
     "urls": [	
         {
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+            "name": "🚀多多┃PG线路"
+        },  
+        {
+            "url": "http://ok321.top/tv",
+            "name": "🚀多多┃OK线路"
+        }, 
+        {
             "url": "http://www.饭太硬.com/tv",
             "name": "🚀多多┃饭太硬线路"
         },                      
         {
             "url": "http://肥猫.com",
             "name": "🚀多多┃肥猫线路"
-        },  
-        {
-            "url": "http://ok321.top/tv",
-            "name": "🚀多多┃OK线路"
-        },  
-        {
-            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-            "name": "🚀多多┃PG线路"
-        },                                                                            
+        },                                                                             
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀多多┃道长线路"
