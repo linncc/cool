@@ -19,7 +19,7 @@
             "name": "🏄️多多┃心魔在线"
         }, 	
           {
-            "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
             "name": "🏄️多多┃二哈线路"
         },
           {

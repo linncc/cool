@@ -11,7 +11,7 @@
             "name": "💎多多┃摸鱼线路"
          },
           {
-            "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "💎多多┃高天流云"
         },
         {
