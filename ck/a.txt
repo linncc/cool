@@ -41,10 +41,6 @@
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "🚀多多┃老刘备线路"
-        },
-          {
-            "url":"http://rihou.cc:88/荷城茶秀",
-            "name": "🚀多多┃荷城线路"
         }
     ]
 }
