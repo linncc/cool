@@ -15,7 +15,7 @@
             "name": "🚀多多┃饭太硬线路"
         },                                                                                                 
         {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
             "name": "🚀多多┃道长线路"
         },
         {
