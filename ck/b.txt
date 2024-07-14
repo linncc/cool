@@ -19,7 +19,7 @@
             "name": "🐹多多┃D佬魔改"
         },                                    
         {
-            "url": "https://gitlab.com/guot55/bh/-/raw/main/pg/bh.json",
+            "url": "http://ygbh.live/box.php",
             "name": "🐹多多┃月光线路"
         },
         {
