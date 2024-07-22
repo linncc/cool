@@ -25,5 +25,37 @@
 * 由此可见，多仓接口里包含了多个仓库，每个仓库里又包含了多个线路，所以有了多仓接口，你就拥有了几十甚至更多的单线路，这些单线路不可能全部同时都挂掉。
 
 
+## 多仓写法
+{
+"storeHouse": [
+{"sourceName":"仓库名字1","sourceUrl":"多仓接口地址1"},
+{"sourceName":"仓库名字2","sourceUrl":"多仓接口地址2"},
+{"sourceName":"仓库名字3","sourceUrl":"多仓接口地址3"},
+{"sourceName":"仓库名字4","sourceUrl":"多仓接口地址4"}
+]}
+
+## 多线路（单仓）写法
+{
+"urls": 
+    [
+        {
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+            "name": "🚀PG线路"
+        }, 	
+        {
+            "url": "http://ok321.top/ok",
+            "name": "🚀OK线路"
+        }, 		
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "🚀饭太硬线路"
+        },          	
+        {
+            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+            "name": "🚀道长线路"
+        }
+	]
+}	
+
 
 ## 此项目长期维护更新，保证其中接口的有效联通率，Fork并不会自动同步仓库内容。
