@@ -25,10 +25,6 @@
           {
             "url":"http://cdn.qiaoji8.com/tvbox.json",
             "name": "🏄️多多┃巧技线路"
-        },
-          {
-            "url":"http://www.wya6.cn/tv/yx.php",
-            "name": "🏄️多多┃无意线路"
         }		
       ]  
 }
