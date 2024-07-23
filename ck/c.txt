@@ -15,7 +15,7 @@
             "name": "💎多多┃高天流云"
         },
         {
-            "url": "http://meowtv.top/tv",
+            "url": "http://meowtv.cn/tv",
             "name": "💎多多┃喵影视"
         },           
         {
