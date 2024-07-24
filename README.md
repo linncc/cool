@@ -2,6 +2,8 @@
 > 仓库管理软件  
 > 公众号《多多影音》
 
+多仓接口：https://www.gitlink.org.cn/api/leevi0321/cool/raw/room.json?ref=main
+多线路接口：https://www.gitlink.org.cn/api/leevi0321/cool/raw/duo.json?ref=main
 
 ## 单线路、多线路、单仓、多仓解释
 > 单线路（线路）：适用于一切基于Box壳子二开的软件；
