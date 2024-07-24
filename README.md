@@ -2,6 +2,8 @@
 > 仓库管理软件  
 > 公众号《多多影音》
 
+## 请勿用于任何盈利目的及商业演示场合，免费收集汇总！
+
 多仓接口：https://www.gitlink.org.cn/api/leevi0321/cool/raw/room.json?ref=main
 多线路接口：https://www.gitlink.org.cn/api/leevi0321/cool/raw/duo.json?ref=main
 
