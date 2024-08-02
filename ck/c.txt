@@ -31,8 +31,8 @@
             "name": "💎多多┃天微线路"
         },
         {
-            "url": "https://tv.lan2wan.top/candymuj.json",
-            "name": "💎多多┃看电影线路"
+            "url": "https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json",
+            "name": "💎多多┃春盈线路"
         }
     ]
 }
