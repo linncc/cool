@@ -35,7 +35,7 @@
             "name": "🚀多多┃小米线路"
         },    
         {
-            "url": "http://tvbox.王二小放牛娃.xyz",
+            "url": "http://tvbox.王二小放牛娃.top",
             "name": "🚀多多┃王二小线路"
         },
         {
