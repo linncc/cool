@@ -31,15 +31,11 @@
             "name": "🐹多多┃吾爱线路"
         },   
         {
-            "url": "https://gitee.com/dongchenys/liu/raw/master/hb.json",
-            "name": "🐹多多┃东辰线路"
-        },  
-        {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "🐹多多┃南风线路"
         },       
         {
-            "url": "http://8.210.232.168/xc.json",
+            "url": "https://fmbox.cc",
             "name": "🐹多多┃星辰线路"
         },          
         {
