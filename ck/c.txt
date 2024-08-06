@@ -19,8 +19,8 @@
             "name": "💎多多┃喵影视"
         },           
         {
-            "url": "https://www.macms.pro/box/3.json",
-            "name": "💎多多┃万达线路"
+            "url": "https://龙伊.top",
+            "name": "💎多多┃龙伊线路"
         },        
         {
             "url": "https://szyyds.cn/tv/x.json",
