@@ -7,7 +7,7 @@
             "name": "🏄️多多┃业余线路"
         },
           {
-            "url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Kq.json",
+            "url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Nd.json",
             "name": "🏄️多多┃路人线路"
         }, 
           {
