@@ -7,17 +7,9 @@
             "name": "🐹多多┃肥猫线路"
         },  
         {
-            "url": "https://tv.xn--yhqu5zs87a.top",
-            "name": "🐹多多┃菜妮丝线路"
-        },
-        {
             "url": "http://ttkx.live:55/天天开心",
             "name": "🐹多多┃开心线路"
-        },  
-        {
-            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-            "name": "🐹多多┃D佬魔改"
-        },                                    
+        },                                  
         {
             "url": "http://ygbh.live/box.php",
             "name": "🐹多多┃月光线路"
@@ -37,7 +29,27 @@
         {
             "url": "https://fmbox.cc",
             "name": "🐹多多┃星辰线路"
-        },          
+        }, 
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "🐹多多┃摸鱼线路"
+         },  
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "🐹多多┃喵影视"
+        },   
+        {
+            "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
+            "name": "🐹多多┃拾光线路"
+        },  
+        {
+            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
+            "name": "🐹多多┃天微线路"
+        },
+        {
+            "url": "https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json",
+            "name": "🐹多多┃春盈线路"
+        },         
         {
             "url": "http://dp.sxtv.top:88/img",
             "name": "🐹多多┃神仙线路"

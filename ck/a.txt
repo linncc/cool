@@ -41,6 +41,10 @@
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "🚀多多┃老刘备线路"
-        }
+        },
+        {
+            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+            "name": "🚀多多┃D佬魔改"
+        },    
     ]
 }

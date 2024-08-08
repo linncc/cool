@@ -6,37 +6,46 @@
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
             "name": "💎多多┃不良帅线路"
         }, 
-        {
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "💎多多┃摸鱼线路"
-         },
+
           {
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "💎多多┃高天流云"
-        },
-        {
-            "url": "http://meowtv.cn/tv",
-            "name": "💎多多┃喵影视"
-        },           
+        },      
         {
             "url": "https://龙伊.top",
             "name": "💎多多┃龙伊线路"
         },        
+          {
+            "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
+            "name": "💎多多┃业余线路"
+        },
+          {
+            "url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Nd.json",
+            "name": "💎多多┃路人线路"
+        }, 
+          {
+            "url":"http://74.120.175.78/JK/XYQTVBox/dj.json",
+            "name": "💎多多┃短剧合集"
+        },
+          {
+            "url":"https://www.gitlink.org.cn/api/kvymin/TVRule/raw/config.json?ref=master",
+            "name": "💎多多┃茶余线路"
+        }, 	
+          {
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "name": "💎多多┃二哈线路"
+        },
+          {
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name": "💎多多┃巧技线路"
+        },
+        {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "💎多多┃菜妮丝线路"
+        },
         {
             "url": "https://szyyds.cn/tv/x.json",
             "name": "💎多多┃小马线路"
-        },
-        {
-            "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
-            "name": "💎多多┃拾光线路"
-        },  
-        {
-            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
-            "name": "💎多多┃天微线路"
-        },
-        {
-            "url": "https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json",
-            "name": "💎多多┃春盈线路"
-        }
+        }	
     ]
 }
