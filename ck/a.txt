@@ -45,6 +45,6 @@
         {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
             "name": "🚀多多┃D佬魔改"
-        },    
+        }
     ]
 }
