@@ -11,8 +11,8 @@
             "name": "🏄️多多┃路人线路"
         }, 
           {
-            "url":"http://sinopacifichk.com/box/56.txt",
-            "name": "🏄️多多┃太平洋线路"
+            "url":"http://74.120.175.78/JK/XYQTVBox/dj.json",
+            "name": "🏄️多多┃短剧合集"
         },
           {
             "url":"https://www.gitlink.org.cn/api/kvymin/TVRule/raw/config.json?ref=master",
