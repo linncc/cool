@@ -4,7 +4,7 @@
     "urls": [	
         {
             "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-            "name": "🚀多多┃PG线路"
+            "name": "🚀多多┃网盘线路"
         },  
         {
             "url": "http://ok321.top/ok",
