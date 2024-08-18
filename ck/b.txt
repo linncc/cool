@@ -15,7 +15,7 @@
             "name": "🐹多多┃月光线路"
         },
         {
-            "url": "http://v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+            "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
             "name": "🐹多多┃欧歌线路"
         },      
         {
