@@ -22,10 +22,6 @@
             "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
             "name": "💎多多┃业余线路"
         },
-        {
-            "url": "https://gitee.com/dongchenliu/liu/raw/master/hd.json",
-            "name": "💎多多┃东辰线路"
-        },  
           {
             "url":"http://74.120.175.78/JK/XYQTVBox/dj.json",
             "name": "💎多多┃短剧合集"
