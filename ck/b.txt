@@ -55,7 +55,7 @@
             "name": "🐹多多┃春盈线路"
         },         
         {
-            "url": "http://dp.sxtv.top:88/img",
+            "url": "http://pt.sxtv.top:66/sx.json",
             "name": "🐹多多┃神仙线路"
         }
     ]
