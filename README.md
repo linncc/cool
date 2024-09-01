@@ -7,6 +7,8 @@
 多仓接口：https://www.gitlink.org.cn/api/leevi0321/cool/raw/room.json?ref=main
 多线路接口：https://www.gitlink.org.cn/api/leevi0321/cool/raw/duo.json?ref=main
 
+打赏VIP群加入方式：
+https://www.gitlink.org.cn/api/leevi0321/cool/raw/%E5%B0%8F%E7%A8%8B%E5%BA%8F.png?ref=main
 ## 单线路、多线路、单仓、多仓解释
 * 单线路（接口）：适用于一切基于Box壳子二开的软件；
 
