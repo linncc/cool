@@ -19,7 +19,7 @@
             "name": "🚀多多┃饭太硬线路"
         },                                                                                                 
         {
-            "url": "https://cdn.gitmirror.com/bb/xduo/libs/master/index.json",
+            "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
             "name": "🚀多多┃道长线路"
         },
         {
