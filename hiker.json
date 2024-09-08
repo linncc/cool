@@ -3,15 +3,21 @@
 一、【海阔小程序】
 需要同时导入模板·Q才能使用
 -----------------------
-云5oooole/jc66
 
+
+
+云5oooole/jc66
 小程序：多多影音
 
 
-云5oooole/eus4
 
+云5oooole/eus4
 小程序：模板·Q
+
+
+
 -----------------------
+
 
 
 二、【海阔DrpyHiker规则】
@@ -23,15 +29,23 @@ DrpyHiker.hk小程序：https://pan.quark.cn/s/a01419c1e22f
 下载后请将后缀名CDR改为zip
 
 -----------------------
+
+
+
 海阔视界，DRPY视频源「多多影音(drpy_t3)」复制整条口令打开软件就会自动导入$云5oooole/45hi$多多影音.js@import=js:$.require('import?rule='+"DrpyHiker")(input, true)
 
-云5oooole/uus3
 
+
+
+云5oooole/uus3
 小程序：Quark.简
 
-云6oooole/xxxxxx/ss38edkumak1oedo
 
+
+云6oooole/xxxxxx/ss38edkumak1oedo
 小程序：云盘君.简
+
+
 
 如果导入后找不到"多多影音"，是因为你没将drpy_dzlive文件夹放在根目录，或者改了名字，就是未按作者要求操作
 解决办法：打开DrpyHiker小程序，点击设置，选择“分享导入路径”，选择你的本地包路径！设置好以后还不行的话就再重新导入一次。
