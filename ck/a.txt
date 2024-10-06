@@ -3,7 +3,7 @@
 {
     "urls": [	
         {
-            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+            "url": "https://gitea.moe/NB666/netdisk/raw/branch/main/jsm.json",
             "name": "🚀多多┃网盘线路"
         },  
         {
