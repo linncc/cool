@@ -39,7 +39,7 @@
             "name": "🐹多多┃云星日记"
         },
         {
-            "url": "https://6758.kstore.space/1.json",
+            "url": "https://6758.kstore.space/2.json",
             "name": "🐹多多┃青龙线路"
         },  
         {
