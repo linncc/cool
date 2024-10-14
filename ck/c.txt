@@ -7,8 +7,8 @@
             "name": "💎多多┃不良帅线路"
         }, 
           {
-            "url":"https://www.gitlink.org.cn/api/kvymin/TVRule/raw/config.json?ref=master",
-            "name": "💎多多┃茶余线路"
+            "url":"https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json",
+            "name": "💎多多┃T4线路"
         }, 
           {
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
@@ -39,7 +39,7 @@
             "name": "💎多多┃菜妮丝线路"
         },
         {
-            "url": "https://szyyds.cn/tv/x.json",
+            "url": "http://szyyds.cn/tv/x.json",
             "name": "💎多多┃小马线路"
         }	
     ]
