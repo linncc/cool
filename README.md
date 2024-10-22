@@ -4,8 +4,9 @@
 
 ## 请勿用于任何盈利目的及商业演示场合，免费收集汇总！
 
-多仓接口：https://www.gitlink.org.cn/api/leevi0321/cool/raw/room.json?ref=main
-多线路接口：https://www.gitlink.org.cn/api/leevi0321/cool/raw/duo.json?ref=main
+多仓接口： https://cdn09022024.gitlink.org.cn/leevi0321/cool/raw/branch/main/room.json 
+多线路接口： https://cdn09022024.gitlink.org.cn/leevi0321/cool/raw/branch/main/duo.json 
+
 
 打赏VIP群加入方式：
 https://www.gitlink.org.cn/api/leevi0321/cool/raw/%E5%B0%8F%E7%A8%8B%E5%BA%8F.png?ref=main
