@@ -11,11 +11,11 @@
             "name": "🐹多多┃荷城线路"
         },
         {
-            "url": "http://ttkx.live:55/天天开心",
-            "name": "🐹多多┃开心线路"
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+            "name": "🐹多多┃分享者线路"
         },      
         {
-            "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
+            "url": "https://cdn09022024.gitlink.org.cn/hailin/cytx/raw/branch/master/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B6.6.3%E7%82%B9%E6%92%AD.json",
             "name": "🐹多多┃春盈线路"
         },                             
         {
@@ -27,8 +27,8 @@
             "name": "🐹多多┃星辰线路"
         }, 
         {
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "🐹多多┃摸鱼线路"
+            "url": "https://download.kstore.space/download/4637/yzhzjk.json",
+            "name": "🐹多多┃宇宙线路"
          },  
         {
             "url": "http://meowtv.cn/tv",
@@ -43,11 +43,11 @@
             "name": "🐹多多┃青龙线路"
         },  
         {
-            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
-            "name": "🐹多多┃天微线路"
+            "url": "http://mdxgh.tpddns.cn:9999/dz.json",
+            "name": "🐹多多┃码点线路"
         },
         {
-            "url": "http://ygbh.live/box.php",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
             "name": "🐹多多┃月光线路"
         },
         {
@@ -55,8 +55,8 @@
             "name": "🐹多多┃欧歌线路"
         },      
         {
-            "url": "http://52pan.top:81/api/v3/file/get/174963/%E6%96%B0%E5%90%BE%E7%88%B1%E7%94%B5%E8%A7%86.m3u?sign=YNZLF47Iiy-W2feoThhKUmd4FcuNFHwEaR4JM7YaLf8%3D%3A0",
-            "name": "🐹多多┃吾爱线路"
+            "url": "https://毒盒.com/tv",
+            "name": "🐹多多┃毒盒线路"
         }
     ]
 }
