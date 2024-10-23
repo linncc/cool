@@ -39,7 +39,7 @@
             "name": "🐹多多┃云星日记"
         },
         {
-            "url": "https://6758.kstore.space/2.json",
+            "url": "https://codeberg.org/yiwu369/6758/raw/branch/main/1.json",
             "name": "🐹多多┃青龙线路"
         },  
         {

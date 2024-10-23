@@ -7,7 +7,7 @@
             "name": "💎多多┃不良帅线路"
         }, 
           {
-            "url":"https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json",
+            "url":"https://cdn09022024.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json",
             "name": "💎多多┃T4线路"
         }, 
           {
@@ -23,7 +23,7 @@
             "name": "💎多多┃业余线路"
         },
           {
-            "url":"https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
+            "url":"https://cdn09022024.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
             "name": "💎多多┃无意云线路"
         },	
           {
