@@ -7,10 +7,6 @@
             "name": "🐹多多┃肥猫线路"
         },  
         {
-            "url": "http://rihou.cc:88/荷城茶秀",
-            "name": "🐹多多┃荷城线路"
-        },
-        {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/001.json",
             "name": "🐹多多┃分享者线路"
         },      
@@ -32,7 +28,7 @@
          },  
         {
             "url": "http://meowtv.cn/tv",
-            "name": "🐹多多┃喵影视"
+            "name": "🐹多多┃喵影视线路"
         },   
         {
             "url": "http://itvbox.cc/云星日记",
@@ -57,6 +53,10 @@
         {
             "url": "https://毒盒.com/tv",
             "name": "🐹多多┃毒盒线路"
+        },
+        {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "🐹多多┃老虎线路"
         }
     ]
 }
