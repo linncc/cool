@@ -43,6 +43,10 @@
             "name": "🚀多多┃王二小线路"
         },
         {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "🚀多多┃老虎线路"
+        },
+        {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "🚀多多┃老刘备线路"
         },
