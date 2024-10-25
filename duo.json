@@ -45,10 +45,6 @@
             "url": "https://100km.top/0",
             "name": "🚀Ray线路"
         },				   					
-       {
-            "url": "http://mdxgh.tpddns.cn:9999/dz.json",
-            "name": "🚀码点线路"
-        }, 
         {
             "url": "http://肥猫.com",
             "name": "🚀肥猫线路"
@@ -80,7 +76,11 @@
         {
             "url":"https://cdn09022024.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json",
             "name": "🚀T4线路"
-        },		
+        },	
+       {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "🚀摸鱼线路"
+        }, 		
         {
             "url": "https://毒盒.com/tv",
             "name": "🚀毒盒线路"
