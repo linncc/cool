@@ -51,8 +51,8 @@
             "name": "🐹多多┃星辰线路"
         }, 
         {
-            "url": "https://cdn09022024.gitlink.org.cn/hailin/cytx/raw/branch/master/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B6.6.3%E7%82%B9%E6%92%AD.json",
-            "name": "🐹多多┃春盈线路"
+            "url": "http://kxrj.site:55/天天开心",
+            "name": "🐹多多┃开心线路"
         }, 
         {
             "url": "http://mdxgh.tpddns.cn:9999/dz.json",
