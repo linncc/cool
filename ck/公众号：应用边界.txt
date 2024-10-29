@@ -25,6 +25,10 @@
           {
             "url":"https://cdn09022024.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
             "name": "💎多多┃无意云线路"
+        },
+        {
+            "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",
+            "name": "💎胜寒线路"
         },	
           {
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
