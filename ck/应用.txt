@@ -2,27 +2,27 @@
     "urls": [
           {
             "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
-            "name": "🏄️多多┃业余线路"
+            "name": "业余线路"
         },
           {
             "url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Nd.json",
-            "name": "🏄️多多┃路人线路"
+            "name": "路人线路"
         }, 
           {
             "url":"http://74.120.175.78/JK/XYQTVBox/dj.json",
-            "name": "🏄️多多┃短剧合集"
+            "name": "短剧合集"
         },
           {
             "url":"https://www.gitlink.org.cn/api/kvymin/TVRule/raw/config.json?ref=master",
-            "name": "🏄️多多┃茶余线路"
+            "name": "茶余线路"
         }, 	
           {
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
-            "name": "🏄️多多┃二哈线路"
+            "name": "二哈线路"
         },
           {
             "url":"http://cdn.qiaoji8.com/tvbox.json",
-            "name": "🏄️多多┃巧技线路"
+            "name": "巧技线路"
         }		
       ]  
 }
