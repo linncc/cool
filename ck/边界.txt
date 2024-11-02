@@ -2,47 +2,47 @@
     "urls": [
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
-            "name": "💎多多┃不良帅线路"
+            "name": "不良帅线路"
         }, 
           {
             "url":"https://cdn09022024.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json",
-            "name": "💎多多┃T4线路"
+            "name": "T4线路"
         }, 
           {
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "💎多多┃高天流云"
+            "name": "高天流云"
         },      
         {
             "url": "https://龙伊.top",
-            "name": "💎多多┃龙伊线路"
+            "name": "龙伊线路"
         },        
           {
             "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
-            "name": "💎多多┃业余线路"
+            "name": "业余线路"
         },
           {
             "url":"https://cdn09022024.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
-            "name": "💎多多┃无意云线路"
+            "name": "无意云线路"
         },
         {
             "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",
-            "name": "💎胜寒线路"
+            "name": "胜寒线路"
         },	
           {
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
-            "name": "💎多多┃二哈线路"
+            "name": "二哈线路"
         },
           {
             "url":"http://cdn.qiaoji8.com/tvbox.json",
-            "name": "💎多多┃巧技线路"
+            "name": "巧技线路"
         },
         {
             "url": "https://tv.xn--yhqu5zs87a.top",
-            "name": "💎多多┃菜妮丝线路"
+            "name": "菜妮丝线路"
         },
         {
             "url": "http://szyyds.cn/tv/x.json",
-            "name": "💎多多┃小马线路"
+            "name": "小马线路"
         }	
     ]
 }
